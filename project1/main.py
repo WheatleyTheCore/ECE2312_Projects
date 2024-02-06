@@ -2,6 +2,7 @@ import sounddevice as sd
 from scipy.io.wavfile import write
 import matplotlib.pyplot as plt
 import librosa
+import librosa.display
 
 
 if __name__ == '__main__':
